@@ -1442,3 +1442,8 @@ Images that are used for a similar purpose SHOULD be grouped in respective group
 
 ## References
 [Swift Bracing](http://ericasadun.com/2015/12/28/swift-bracing/)
+
+
+## License
+
+[MIT](/LICENSE)
